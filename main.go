@@ -337,7 +337,6 @@ func loadConfiguration(filename string) Configuration {
 
 func main() {
 	config = loadConfiguration("config.json")
-	fmt.Println(config)
 
 	// Check whether node is running
 	_, err := http.Get(config.NodeURL + "/api/node/status")
