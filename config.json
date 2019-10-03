@@ -1,0 +1,9 @@
+{
+	"nodeURL": "http://127.0.0.1:7000",
+	"publicKey": "<PUBLIC KEY>",
+	"password": "<FORGING PASSWORD, NOT WALLET PASSWORD>",
+	"delegate": "sdrpa",
+	"homePath": "/home/lisk/",
+	"installationPath": "/home/lisk/lisk-test",
+	"publicNodeURL": "http://testnet.lisk.io"
+}
